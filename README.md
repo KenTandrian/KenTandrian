@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KenTandrian
-- 👀 I’m interested in graphic design, web programming, and data science.
-- 🌱 I’m currently learning Python for data science.
-- 💞️ I’m looking to collaborate on web and data projects!
+- 👀 I’m interested in UX design, web programming, and cloud computing.
+- 🌱 I’m currently learning React for web application development.
+- 💞️ I’m looking to collaborate on web and UX projects!
 - 📫 Reach me through e-mail kenricktan11@gmail.com
 
 <!---
