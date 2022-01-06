@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/KenTandrian?label=Follow&style=social)](https://github.com/KenTandrian)
 <br />
 <br />
-## I'm currenty an active student in [UPH](https://uph.edu)!
+## I'm currently an active student in [UPH](https://uph.edu)!
 - 👀 I’m interested in UX design, web programming, and cloud computing.
 - 🌱 I’m currently learning React for web application development.
 - 💞️ I’m looking to collaborate on web and UX projects!
