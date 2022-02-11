@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <br /><br />
 ## Let's Connect!
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/KenTandrian/)](https://github.com/KenTandrian/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenricktandrian/)](https://www.linkedin.com/in/kenricktandrian/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenricktandrian/)](https://www.linkedin.com/in/kenrick-tandrian/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ken_tandrian/)](https://instagram.com/ken_tandrian)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenricktan11@gmail.com)](mailto:kenricktan11@gmail.com)
 <br />
