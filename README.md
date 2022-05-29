@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/KenTandrian?tab=repositories&language=javascript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/KenTandrian?tab=repositories&language=javascript)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=%237F5AB6)](https://github.com/KenTandrian?tab=repositories)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)](https://github.com/KenTandrian?tab=repositories&language=javascript)
 - Desktop Application:
 [![.Net](https://img.shields.io/badge/.NET-black?style=flat&logo=.net&logoColor=5C2D91)](https://github.com/KenTandrian?tab=repositories&language=c%23)
 [![C#](https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%23239120)](https://github.com/KenTandrian?tab=repositories&language=c%23)
@@ -40,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 [![C++](https://img.shields.io/badge/-C%2b%2b-black?style=flat&logo=C%2b%2b&logoColor=%2300599C)](https://github.com/KenTandrian?tab=repositories)
 <br /><br />
 ## 🏆 My GitHub Stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenTandrian&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&hide=TeX&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenTandrian&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/KenTandrian?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&hide=TeX&layout=compact)](https://github.com/KenTandrian?tab=repositories)
 <br /><br />
 ## Let's Connect!
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/KenTandrian/)](https://github.com/KenTandrian/)
@@ -51,4 +52,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 <br />
-![December 2021](https://img.shields.io/github/last-commit/KenTandrian/KenTandrian?label=profile%20updated&style=flat-square)
+[![May 2022](https://img.shields.io/github/last-commit/KenTandrian/KenTandrian?label=profile%20updated&style=flat-square)](https://github.com/KenTandrian)
+
+##
+&#169; Ken Tandrian 2022.
