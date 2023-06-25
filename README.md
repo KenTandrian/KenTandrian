@@ -3,10 +3,10 @@
 [![Github](https://img.shields.io/github/followers/KenTandrian?label=Follow&style=social)](https://github.com/KenTandrian)
 <br />
 <br />
-## I'm currently an active student in [UPH](https://uph.edu)!
-- 👀 I’m interested in UX design, web programming, and cloud computing.
-- 🌱 I’m currently learning React for web application development.
-- 💞️ I’m looking to collaborate on web and UX projects!
+## I'm an Information System graduate of [UPH](https://uph.edu)!
+- 👀 I’m an enthusiast in UX design, web programming, and cloud computing.
+- 🌱 I’m currently learning React, Swift, and Google Cloud.
+- 💞️ I’m looking to collaborate on web, mobile, and cloud projects!
 - 📫 Feel free to reach me out!
 <br />
 <!---
@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 [![C++](https://img.shields.io/badge/-C%2b%2b-black?style=flat&logo=C%2b%2b&logoColor=%2300599C)](https://github.com/KenTandrian?tab=repositories)
 <br /><br />
 ## 🏆 My GitHub Stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenTandrian&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/KenTandrian?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&hide=TeX&layout=compact)](https://github.com/KenTandrian?tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenTandrian&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/KenTandrian?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/KenTandrian?tab=repositories)
 <br /><br />
 ## Let's Connect!
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/KenTandrian/)](https://github.com/KenTandrian/)
@@ -55,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 [![May 2022](https://img.shields.io/github/last-commit/KenTandrian/KenTandrian?label=profile%20updated&style=flat-square)](https://github.com/KenTandrian)
 
 ##
-&#169; Ken Tandrian 2022.
+&#169; Ken Tandrian 2023.
