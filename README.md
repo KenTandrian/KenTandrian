@@ -71,7 +71,7 @@ These are the technologies that I am currently familiar with and have used befor
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenricktandrian/)](https://www.linkedin.com/in/kenrick-tandrian/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ken_tandrian/)](https://instagram.com/ken_tandrian)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenricktan11@gmail.com)](mailto:kenricktan11@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kenricktan11)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kenricktan11)
 <br />
 <br />
 <br />
