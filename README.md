@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## ⚡Technologies
-These are the technologies that I have used before. Please note that this list is not exhaustive and might change over time.
+These are the technologies that I am currently familiar with and have used before. This non-exhaustive list will be updated over time.
 
 ### Operating System
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6)]()
