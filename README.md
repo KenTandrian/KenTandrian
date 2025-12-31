@@ -78,4 +78,4 @@ These are the technologies that I am currently familiar with and have used befor
 [![June 2024](https://img.shields.io/github/last-commit/KenTandrian/KenTandrian?label=profile%20updated&style=flat-square)](https://github.com/KenTandrian)
 
 ##
-2024 &#169; Ken Tandrian
+&#169; 2021-2026 Ken Tandrian
