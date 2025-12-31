@@ -62,9 +62,9 @@ These are the technologies that I am currently familiar with and have used befor
 <br />
 
 ## 🏆 My GitHub Stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenTandrian&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/KenTandrian?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/KenTandrian?tab=repositories)
-
+[![GitHub stats](https://github-readme-stats-kentandrian.vercel.app/api?username=KenTandrian&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/KenTandrian?tab=repositories)
+[![Streak](https://github-readme-stats-kentandrian.vercel.app/api/streak?username=KenTandrian&theme=tokyonight)](https://github.com/KenTandrian?tab=repositories)
+[![Top Langs](https://github-readme-stats-kentandrian.vercel.app/api/top-langs/?username=KenTandrian&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/KenTandrian?tab=repositories)
 
 ## Let's Connect!
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/KenTandrian/)](https://github.com/KenTandrian/)
